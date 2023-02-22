@@ -31,7 +31,7 @@ Each folder contains:
 
 6) The matlab functions "fitBottom.m", "fitCold.m" and "fitTop.m" use the coefficients stored in 2) to compute the power-law fit of the Biot function in regions C2, C1 and H, respectively.
 
-7) The matlab file "TestFits.m" uses all the functions of 5) and 6), as well as the blending formula provided by Romanò et al. (2023) [1] to compute the Biot function fit and plot it in comparison with the reference data, i.e. the numerical simulations stored in 3).
+7) The matlab file "TestFits.m" uses all the functions of 5) and 6), as well as the blending formula provided in [1] to compute the Biot function fit and plot it in comparison with the reference data, i.e. the numerical simulations stored in 3).
 
 8) The matlab function "BiotAvgLin.m" computes the constant Biot number approximation of the Biot function proposed in [1], see model [SFM-c].
 
